@@ -1,0 +1,4 @@
+contributions :
+
+optimisation des matrices en pair-programming
+javadoc du projet sauf la partie base de données

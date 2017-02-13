@@ -1,0 +1,6 @@
+Contribution VANTOURS François
+
+Partie bdd avec Frederic Prochnow
+Integration de la bdd dans le mvc
+Aide mvc
+uml

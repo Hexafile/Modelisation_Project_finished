@@ -1,0 +1,11 @@
+Contribution au livrable 3
+BDD
+>>interface bdd du loigiciel
+    |-> liste des fichiers ply
+    |-> bouton ajouter, modifier, supprimer
+    |-> barre de recherche de ply
+>>toutes les methodes de BDD :
+    |-> --name
+    |-> --add
+    |-> --delete
+    |-> --find

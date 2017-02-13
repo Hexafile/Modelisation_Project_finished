@@ -1,0 +1,17 @@
+Contribution PLOUCHART Thomas
+
+COOA :
+- Construction du mvc
+- Création de l'interface (excepté partie bdd)
+- Dimention des panels en fonction de la taille de l'ecran
+- Réédition du triage des faces en sortParallele (plus performant -> affichage du dragon plus rapide)
+- Optimisation du code (diminuer le nombre d'opérations, réduire les algorithmes)
+
+Modélisation :
+- Bouton pour face, segment et ombre
+- Pair programming pour rééditer matrices
+- Réédition des rotations
+- Aide pour l'ombre
+- Documentation Objet3D Gui3D
+- Drag de la figure pour rotation
+- Drag de la figure pour translation

@@ -1,0 +1,6 @@
+contributions : 
+
+pair programming de la classe Matrice 
+Début de l'ombre 
+Tests coverage 
+Aide au zoom et translation (corrections et debuggage)

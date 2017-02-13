@@ -1,0 +1,3 @@
+aide optimisation lecteur de face avec Thomas Plouchart
+aide barycentre / tri face avec Thomas Plouchart
+Main de "BDD.java" : --name --delete --edit du sqlite

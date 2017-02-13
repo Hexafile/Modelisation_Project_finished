@@ -1,0 +1,6 @@
+Fonction zoom avec Thomas Plouchart 
+fonction de translation et barycentre avec Margot Plouvin
+Début d'interface avec ajout des boutons (Fini par Margot Plouvin)
+Finition zoom
+Ajout des options d'affichage -f et -s  
+

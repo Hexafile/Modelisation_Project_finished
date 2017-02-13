@@ -1,0 +1,10 @@
+base de donnes sqlite 
+--> insertion
+--> selection
+--> verification presence dans la base
+--> mise a jour
+--> suppression
+fonction du livrable
+--> fonction --all
+--> fonction --find
+--> fonction --add

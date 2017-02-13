@@ -1,0 +1,5 @@
+Fix de translation
+Fonction zoom avec Yann Fablet
+Tentative de fixage de Barycentre, sans succès
+Fonction de triage des faces (tri par insertion -> dragon inaffichable -> 2.10^12 opérations)
+Luminosité des faces (source de lumière sur le devant de la figure)
